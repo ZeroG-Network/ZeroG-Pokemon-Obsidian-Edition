@@ -18,19 +18,18 @@ We created this modpack and has had hour's to make sure it can give players grea
  
 # Mod's In the pack
 
-*Thermal expansion,
-*Biomes o' plenty,
-*Tinkers' construct, ,
-*Chisel,
-*Pam's harvest-craft &
-*Immersive engineering.
-*Pixelmon Reforge
-*Forestry
-*Bee's
-*Industrial foregoing
-*Draconic evolution
-*and many more..
-*[In Control! (by McJty)](https://minecraft.curseforge.com/mc-mods/257356)
+* Thermal expansion,
+* Biomes o' plenty,
+* Tinkers' construct, ,
+* Chisel,
+* Pam's harvest-craft &
+* Immersive engineering.
+* Pixelmon Reforge
+* Forestry
+* Bee's
+* Industrial foregoing
+* Draconic evolution
+* and many more..
 
 Hope you enjoy this wonderful 1.12.2 modpack 
 

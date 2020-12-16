@@ -30,6 +30,7 @@ Bee's
 Industrial foregoing
 Draconic evolution
 and many more..
+(https://minecraft.curseforge.com/mc-mods/257356)[In Control! (by McJty)]
 
 Hope you enjoy this wonderful 1.12.2 modpack 
 

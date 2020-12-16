@@ -29,7 +29,7 @@ We created this modpack and has had hour's to make sure it can give players grea
 * Bee's
 * Industrial foregoing
 * Draconic evolution
-* and many more..
+and many more..
 
 Hope you enjoy this wonderful 1.12.2 modpack 
 

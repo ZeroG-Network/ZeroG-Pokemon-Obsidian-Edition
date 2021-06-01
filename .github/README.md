@@ -1,6 +1,6 @@
-# Pixelmon Lite
+# ZeroG Pixelmon: Obsidian Edition
 
-This is the official repository and issue-tracker for the modpack [Pixelmon Lite](https://www.curseforge.com/minecraft/modpacks/zerog-pixelmon-lite), for Minecraft 1.12.2
+This is the official repository and issue-tracker for the modpack [ZeroG Pixelmon: Obsidian Edition](https://www.curseforge.com/minecraft/modpacks/zerog-pixlemon-obsidian-edition), for Minecraft 1.12.2
 
 ### Table of Contents
 
@@ -22,6 +22,6 @@ There are a few things we would like testers to consider/look for:
 
 ## Links
 
--   [CurseForge](https://www.curseforge.com/minecraft/modpacks/zerog-pixelmon-lite)
+-   [CurseForge](https://www.curseforge.com/minecraft/modpacks/zerog-pixlemon-obsidian-edition)
 
 -   [Discord](https://discord.gg/aaXAX9z)

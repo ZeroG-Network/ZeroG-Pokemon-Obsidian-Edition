@@ -8,7 +8,7 @@ This is the official repository and issue-tracker for the modpack [ZeroG Pixelmo
 -   [Links](#links)
 -   [Curseforge Discription](#Curseforge-Discription)
     - [Features](#Features)
-    - [Overall](#Overhall)
+    - [Overall](#Overall)
 
 <hr></hr>
 

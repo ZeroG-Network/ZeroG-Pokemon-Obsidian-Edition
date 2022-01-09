@@ -1,0 +1,319 @@
+{
+  "globalCompositeCondition": {
+    "conditions": [
+      {
+        "dimensions": [
+          0
+        ]
+      }
+    ],
+    "anticonditions": []
+  },
+  "intervalSeconds": {},
+  "blockCategories": {
+    "lava": [
+      "minecraft:lava"
+    ],
+    "seesSkyException": [
+      "minecraft:leaves",
+      "minecraft:leaves2",
+      "minecraft:glass",
+      "minecraft:stained_glass",
+      "pixelmon:hidden_cube",
+      "biomesoplenty:leaves_0",
+      "biomesoplenty:leaves_1",
+      "biomesoplenty:leaves_2",
+      "biomesoplenty:leaves_3",
+      "biomesoplenty:leaves_4",
+      "biomesoplenty:leaves_5"
+    ],
+    "beach": [
+      "minecraft:sand",
+      "minecraft:clay",
+      "biomesoplenty:white_sand"
+    ],
+    "land": [
+      "minecraft:hardened_clay",
+      "minecraft:stained_hardened_clay",
+      "minecraft:black_glazed_terracotta",
+      "minecraft:blue_glazed_terracotta",
+      "minecraft:brown_glazed_terracotta",
+      "minecraft:cyan_glazed_terracotta",
+      "minecraft:gray_glazed_terracotta",
+      "minecraft:green_glazed_terracotta",
+      "minecraft:light_blue_glazed_terracotta",
+      "minecraft:lime_glazed_terracotta",
+      "minecraft:magenta_glazed_terracotta",
+      "minecraft:orange_glazed_terracotta",
+      "minecraft:pink_glazed_terracotta",
+      "minecraft:purple_glazed_terracotta",
+      "minecraft:red_glazed_terracotta",
+      "minecraft:silver_glazed_terracotta",
+      "minecraft:white_glazed_terracotta",
+      "minecraft:yellow_glazed_terracotta",
+      "minecraft:grass",
+      "minecraft:dirt",
+      "minecraft:stone",
+      "minecraft:waterlily",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:mycelium",
+      "minecraft:snow",
+      "minecraft:netherrack",
+      "minecraft:soul_sand",
+      "minecraft:ice",
+      "minecraft:frosted_ice",
+      "minecraft:packed_ice",
+      "biomesoplenty:ash_block",
+      "biomesoplenty:dirt",
+      "biomesoplenty:dried_sand",
+      "biomesoplenty:grass"
+    ],
+    "air": [
+      "minecraft:air",
+      "minecraft:tallgrass",
+      "minecraft:snow_layer",
+      "minecraft:red_flower",
+      "minecraft:yellow_flower",
+      "pixelmon:pixelmon_grass",
+      "pixelmon:poke_grass",
+      "biomesoplenty:double_plant",
+      "biomesoplenty:flower_0",
+      "biomesoplenty:flower_1",
+      "biomesoplenty:mushroom",
+      "biomesoplenty:plant_0",
+      "biomesoplenty:plant_1"
+    ],
+    "high grass": [
+      "minecraft:tallgrass",
+      "pixelmon:pixelmon_grass",
+      "pixelmon:poke_grass"
+    ],
+    "water": [
+      "minecraft:water",
+      "biomesoplenty:coral",
+      "biomesoplenty:hot_spring_water",
+      "biomesoplenty:seaweed"
+    ]
+  },
+  "biomeCategories": {
+    "arid": [
+      "minecraft:desert",
+      "minecraft:desert_hills",
+      "minecraft:mutated_desert",
+      "biomesoplenty:outback",
+      "biomesoplenty:shrubland"
+    ],
+    "savannas": [
+      "minecraft:savanna",
+      "minecraft:savanna_rock",
+      "minecraft:mutated_savanna",
+      "minecraft:mutated_savanna_rock",
+      "biomesoplenty:brushland",
+      "biomesoplenty:lush_desert",
+      "biomesoplenty:outback",
+      "biomesoplenty:xeric_shrubland"
+    ],
+    "mesas": [
+      "minecraft:mesa",
+      "minecraft:mesa_clear_rock",
+      "minecraft:mesa_rock",
+      "minecraft:mutated_mesa",
+      "minecraft:mutated_mesa_clear_rock",
+      "minecraft:mutated_mesa_rock"
+    ],
+    "nether": [
+      "biomesoplenty:corrupted_sands",
+      "biomesoplenty:fungi_forest",
+      "biomesoplenty:phantasmagoric_inferno",
+      "biomesoplenty:polar_chasm",
+      "biomesoplenty:visceral_heap",
+      "biomesoplenty:undergarden"
+    ],
+    "flowery": [
+      "minecraft:mutated_plains",
+      "minecraft:mutated_forest",
+      "biomesoplenty:cherry_blossom_grove",
+      "biomesoplenty:flower_field",
+      "biomesoplenty:lavender_fields"
+    ],
+    "swamps": [
+      "minecraft:swampland",
+      "minecraft:mutated_swampland",
+      "biomesoplenty:bayou",
+      "biomesoplenty:bog",
+      "biomesoplenty:dead_swamp",
+      "biomesoplenty:fen",
+      "biomesoplenty:land_of_lakes",
+      "biomesoplenty:lush_swamp",
+      "biomesoplenty:mangrove",
+      "biomesoplenty:marsh",
+      "biomesoplenty:moor",
+      "biomesoplenty:quagmire",
+      "biomesoplenty:wetland"
+    ],
+    "freezing mountains": [
+      "minecraft:ice_mountains",
+      "minecraft:taiga_cold_hills",
+      "biomesoplenty:alps",
+      "biomesoplenty:crag"
+    ],
+    "taigas": [
+      "minecraft:taiga",
+      "minecraft:taiga_hills",
+      "minecraft:mutated_taiga"
+    ],
+    "mountainous forests": [
+      "minecraft:extreme_hills_with_trees",
+      "minecraft:mutated_extreme_hills_with_trees"
+    ],
+    "jungles": [
+      "minecraft:jungle",
+      "minecraft:jungle_edge",
+      "minecraft:jungle_hills",
+      "minecraft:mutated_jungle",
+      "minecraft:mutated_jungle_edge",
+      "biomesoplenty:eucalyptus_forest",
+      "biomesoplenty:overgrown_cliffs",
+      "biomesoplenty:rainforest",
+      "biomesoplenty:tropical_rainforest",
+      "biomesoplenty:tropical_island"
+    ],
+    "forests": [
+      "minecraft:forest",
+      "minecraft:forest_hills",
+      "minecraft:mutated_forest",
+      "minecraft:roofed_forest",
+      "minecraft:mutated_roofed_forest",
+      "biomesoplenty:boreal_forest",
+      "biomesoplenty:maple_woods",
+      "biomesoplenty:orchard",
+      "biomesoplenty:seasonal_forest",
+      "biomesoplenty:woodland"
+    ],
+    "beaches": [
+      "minecraft:beaches",
+      "minecraft:cold_beach",
+      "minecraft:stone_beach"
+    ],
+    "magical": [
+      "biomesoplenty:cherry_blossom_grove",
+      "biomesoplenty:lavender_field",
+      "biomesoplenty:mystic_grove",
+      "biomesoplenty:sacred_springs"
+    ],
+    "mountainous": [
+      "minecraft:extreme_hills",
+      "minecraft:smaller_extreme_hills",
+      "minecraft:extreme_hills_with_trees",
+      "minecraft:mutated_extreme_hills",
+      "minecraft:mutated_extreme_hills_with_trees",
+      "biomesoplenty:alps",
+      "biomesoplenty:crag",
+      "biomesoplenty:highland",
+      "biomesoplenty:mountain",
+      "biomesoplenty:overgrown_cliffs"
+    ],
+    "freezing": [
+      "minecraft:taiga_cold",
+      "minecraft:taiga_cold_hills",
+      "minecraft:cold_beach",
+      "minecraft:frozen_river",
+      "minecraft:frozen_ocean",
+      "minecraft:mutated_taiga_cold",
+      "minecraft:ice_mountains",
+      "minecraft:ice_flats",
+      "minecraft:mutated_ice_flats",
+      "biomesoplenty:alps",
+      "biomesoplenty:alps_foothills",
+      "biomesoplenty:cold_desert",
+      "biomesoplenty:coniferous_forest",
+      "biomesoplenty:crag",
+      "biomesoplenty:snowy_coniferous_forest",
+      "biomesoplenty:snowy_forest",
+      "biomesoplenty:tundra",
+      "biomesoplenty:glacier"
+    ],
+    "redwoods": [
+      "minecraft:redwood_taiga",
+      "minecraft:redwood_taiga_hills",
+      "minecraft:mutated_redwood_taiga",
+      "minecraft:mutated_redwood_taiga_hills",
+      "biomesoplenty:redwood_forest"
+    ],
+    "all forests": [
+      "minecraft:forest",
+      "minecraft:forest_hills",
+      "minecraft:mutated_forest",
+      "minecraft:roofed_forest",
+      "minecraft:mutated_roofed_forest",
+      "minecraft:taiga",
+      "minecraft:taiga_hills",
+      "minecraft:mutated_taiga",
+      "minecraft:redwood_taiga",
+      "minecraft:redwood_taiga_hills",
+      "minecraft:mutated_redwood_taiga",
+      "minecraft:mutated_redwood_taiga_hills",
+      "minecraft:birch_forest",
+      "minecraft:birch_forest_hills",
+      "minecraft:mutated_birch_forest",
+      "minecraft:mutated_birch_forest_hills"
+    ],
+    "plains": [
+      "minecraft:plains",
+      "minecraft:mutated_plains",
+      "biomesoplenty:chaparral",
+      "biomesoplenty:grassland",
+      "biomesoplenty:grove",
+      "biomesoplenty:prairie",
+      "biomesoplenty:steppe"
+    ],
+    "oceanic": [
+      "minecraft:ocean",
+      "minecraft:deep_ocean",
+      "minecraft:frozen_ocean",
+      "biomesoplenty:coral_reef",
+      "biomesoplenty:kelp_forest"
+    ],
+    "hills": [
+      "minecraft:birch_forest_hills",
+      "minecraft:taiga_cold_hills",
+      "minecraft:desert_hills",
+      "minecraft:forest_hills",
+      "minecraft:jungle_hills",
+      "minecraft:mutated_birch_forest_hills",
+      "minecraft:redwood_taiga_hills",
+      "minecraft:taiga_hills",
+      "biomesoplenty:boreal_forest",
+      "biomesoplenty:grassland",
+      "biomesoplenty:highland",
+      "biomesoplenty:moor"
+    ],
+    "birches": [
+      "minecraft:birch_forest",
+      "minecraft:birch_forest_hills",
+      "minecraft:mutated_birch_forest",
+      "minecraft:mutated_birch_forest_hills"
+    ],
+    "evil": [
+      "biomesoplenty:dead_forest",
+      "biomesoplenty:dead_swamp",
+      "biomesoplenty:ominous_woods",
+      "biomesoplenty:wasteland"
+    ],
+    "mushroom": [
+      "minecraft:mushroom_island",
+      "minecraft:mushroom_island_shore",
+      "biomesoplenty:fungi_forest"
+    ],
+    "freezing forests": [
+      "minecraft:taiga_cold",
+      "minecraft:taiga_cold_hills",
+      "minecraft:mutated_taiga_cold",
+      "biomesoplenty:boreal_forest",
+      "biomesoplenty:coniferous_forest",
+      "biomesoplenty:fen",
+      "biomesoplenty:snowy_coniferous_forest"
+    ]
+  }
+}

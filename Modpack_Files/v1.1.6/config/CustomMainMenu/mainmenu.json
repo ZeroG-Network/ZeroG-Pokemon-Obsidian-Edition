@@ -1,0 +1,186 @@
+{
+    "images":
+    {
+        "backgroundmenu":
+        {
+            "image": "menu:bg_menu.png",
+            "posX" : -180,
+            "posY" : 0,
+            "width" : 180,
+            "height" : 600,
+            "alignment" : "top_right"
+        },
+        "backgroundmenu1":
+        {
+            "image": "menu:bg_menu.png",
+            "posX" : 0,
+            "posY" : 0,
+            "width" : 180,
+            "height" : 600,
+            "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "menu:bg_logo.png",
+            "posX" : -85,
+            "posY" : -15,
+            "width" : 150,
+            "height" : 150,
+            "alignment" : "top_center"
+        },
+        "subtitle":
+        {
+            "image" : "menu:OBED.png",
+            "posX" : -65,
+            "posY" : 100,
+            "width" : 115,
+            "height" : 30,
+            "alignment" : "top_center"
+        }
+    
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+            "texture": "menu:button.png",
+            "posX" : 30,
+            "posY" : -50,
+            "width" : 100,
+            "height" : 30,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "Multiplayer",
+            "texture": "menu:button.png",
+            "posX" : 30,
+            "posY" : -5,
+            "width" : 100,
+            "height" : 30,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "texture": "menu:button.png",
+            "text" : "Mods",
+            "posX" : 30,
+            "posY" : 40,
+            "width" : 100,
+            "height" : 30,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+            "texture": "menu:button.png",
+            "posX" : -150,
+            "posY" : -50,
+            "width" : 100,
+            "height" : 30,
+            "alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit Game",
+            "texture": "menu:button.png",
+            "posX" : -150,
+            "posY" : -5,
+            "width" : 100,
+            "height" : 30,
+            "alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+
+        "discord":
+        {
+            "text" : "Discord",
+            "texture": "menu:button.png",
+            "posX" : -150,
+            "posY" : 40,
+            "width" : 100,
+            "height" : 30,
+            "alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/aaXAX9z"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -200,
+            "posY" : -20,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "Creator":
+        {
+            "text" : "Created by ZeroG Owners \n{MrWhiteFlamesYT & Reconsolidate}",
+            "posX" : -175,
+            "posY" : -20,
+            "color" : -420,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 5,
+            "posY" : -40,
+            "color" : -420,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "background":
+        {
+            "image": "menu:bg.jpg",
+            "mode": "stretch"
+        }
+
+    }
+}

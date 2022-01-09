@@ -1,0 +1,40 @@
+{
+  "inventory": {
+    "0:5": "pixelmon:potion,8",
+    "0:33": "harvestcraft:hamburgeritem,32",
+    "0:4": "pixelmon:old_running_boots",
+    "0:0": "tconstruct:pickaxe,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+    "0:11": "pixelmon:great_ball,4",
+    "0:8": "pixelmon:ultra_ball,8",
+    "0:34": "ironbackpacks:backpack,1,0,{packInfo:{upgrade:[],type:\"ironbackpacks:basic\",spec:\"NONE\"}}",
+    "0:35": "pixelmon:great_ball,4",
+    "0:3": "pixelmon:rare_candy,4",
+    "0:6": "pixelmon:moomoo_milk,8",
+    "0:7": "pixelmon:poke_ball,16",
+    "0:1": "tconstruct:hatchet,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Special:{Categories:[\"weapon\",\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1,xp:4,bonus_modifiers:0}],Traits:[\"ecological\",\"toolleveling\"]}",
+    "0:2": "tconstruct:shovel,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}"
+  },
+  "kits": {
+    "<poke>": {
+      "0:2": "tconstruct:hatchet,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Special:{Categories:[\"weapon\",\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:3": "tconstruct:shovel,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:5": "pixelmon:potion,8",
+      "0:0": "tconstruct:broadsword,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:82,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:82,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:1": "tconstruct:pickaxe,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:8": "harvestcraft:cottoncandyitem,7",
+      "0:7": "ironbackpacks:backpack,1,0,{packInfo:{upgrade:[],type:\"ironbackpacks:basic\",spec:\"NONE\"}}",
+      "0:6": "pixelmon:poke_ball,16"
+    },
+    "Poke": {
+      "0:3": "extrautils2:itembuilderswand",
+      "0:0": "tconstruct:pickaxe,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:4": "pixelmon:moomoo_milk,8",
+      "0:2": "tconstruct:shovel,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:5": "pixelmon:potion,8",
+      "0:8": "harvestcraft:hamburgeritem,8",
+      "0:1": "tconstruct:hatchet,1,0,{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Special:{Categories:[\"weapon\",\"harvest\",\"aoe\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1,xp:4,bonus_modifiers:0}],Traits:[\"ecological\",\"toolleveling\"]}",
+      "0:7": "ironbackpacks:backpack,1,0,{packInfo:{upgrade:[],type:\"ironbackpacks:basic\",spec:\"NONE\"}}",
+      "0:6": "pixelmon:poke_ball,32"
+    }
+  }
+}

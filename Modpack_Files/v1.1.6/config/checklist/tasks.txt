@@ -1,0 +1,94 @@
+Press "R" to send out a Pokemon
+Hold down "shift" key with a tool in your hand, while you mine, to excavate multiple blocks on the same time 
+Hold down "shift" key, when looking at a pokemon to see EV/IV and other stats
+Win a battle against another Pokemon
+Find a Village
+Craft 1 Anvil from Pixelmon, 1 Poké Ball Lid, 1 Iron Base and 1 Hammer, and create 1 Poké Ball 
+#§2 Exploring Objectives
+Find and buy something from a Shopkeeper.
+Find and buy something from a Blue Vending Machine.
+Find a healer station and heal your pokemon.
+Get a Master Ball
+Find a Apricorn tree
+Find a Gastly in the nether, and catch it
+Find a Gym
+#§c Pokemon Crafting Objectives
+Craft 10 Poké Balls
+Craft 10 Great Balls
+Craft 10 Ultra Balls
+Craft 1 PC
+Craft 1 Fossil Station
+Craft 1 Trade Station
+Craft 1 Acro Bike
+#§c Pokemon Battle Objectives
+Battle against 1 trainer in the wild
+Win over 1 trainer in the wild
+Win over 5 trainers in the wild
+Win over 10 trainers in the wild
+#§c Pokemon Objectives
+Catch 5 new Pokemons
+Catch 10 new Pokemons
+Catch 50 new Pokemons
+Catch Bulbasaur
+Catch Charmander
+Catch Squitle
+Catch Abra in the End
+Catch a Shiny Pokemon
+Catch a Legendary Pokemon
+Get a Pokemon out of a Fossil
+Defeat 1 Gym Leader
+#§c Leveling Objectives
+Level 1 Pokemon to level 10
+Level 1 Pokemon to level 25
+Level 1 Pokemon to level 50
+Level 1 Pokemon to level 75
+Level 1 Pokemon to level 100
+Level 10 Pokemons to level 100
+Evolve 5 Pokemons
+Evolve 10 Pokemons
+Use 1 Evolution Stone on a Pokemon to evolve it
+#§c Pokedex Objectives
+Reach 25% in the Pokedex
+Reach 50% in the Pokedex
+Reach 75% in the Pokedex
+Reach 100% in the Pokedex
+#§c Pokestops Objectives
+Find 1 Pokestops
+Find 5 Pokestops
+Hach one 2KM egg
+Hach one 5KM egg
+Hach one 10KM egg
+Hach one 20KM egg
+#§9 Crafting Objectives
+Craft a Task Table, and place your Task Book on it
+Setup a Smeltery
+Make and eat 1 Apple Jelly Sandwich
+Mine some Soul Sand
+Open a total of 10 Chance Cubes
+Get a full set of Supremium Armor
+Craft a full set of Soul Sand Armor
+Craft the Soul Sand Sword
+Craft the "Spawn Soul Sand Monster" egg and use it
+Craft/find a total of 10 Inventory Pets
+Setup a Storage System using Refined Storage
+Craft some furniture from MrCrayfish's Furniture Mod
+Craft 1 Architect's Sawbench, and use it
+Craft 1 Diamond Chisel
+Craft Zombie Seeds (To get Mob Drops from)
+Craft Pig, Chicken, Cow, Sheep, Slime Seeds
+Craft Rabbit, Guardian, Spider, Creeper, Skeleton Seeds
+Craft Blaze, Ghast, Enderman Seeds
+Craft Wither Skeleton Seeds
+Craft some Inferium Seeds
+Craft some Nether Seeds
+Craft some Iron Seeds
+Craft some Gold Seeds
+Craft some Diamond Seeds
+Get a Transmutation Table
+Setup your first Flower Power (ProjectE)
+Get a full Red Matter armor set
+Get a full Gem armor set
+Craft a Diamond Fishing Rod, and fish up 5 different fish
+Craft a full set of Draconic Armor
+Make your own door using the Door Factory
+Setup a Laser Base, using 4 Laser Drills

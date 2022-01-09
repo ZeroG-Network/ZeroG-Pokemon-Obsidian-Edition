@@ -1,0 +1,12 @@
+{
+	title: "Tinkers",
+	icon: {
+		ForgeCaps: {
+			"customnpcs:itemscripteddata": {}
+		},
+		id: "tconstruct:pattern"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

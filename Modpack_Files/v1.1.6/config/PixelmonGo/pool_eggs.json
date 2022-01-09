@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "key": "2Km",
+      "distance": 2000,
+      "pools": [
+        "2Km"
+      ],
+	  "colour":255
+    },
+    {
+      "key": "5Km",
+      "distance": 5000,
+      "pools": [
+        "5Km"
+      ],
+	  "colour":16711680
+    },
+    {
+      "key": "10Km",
+      "distance": 10000,
+      "pools": [
+        "10Km"
+      ],
+	  "colour":65280
+    },
+    {
+      "key": "20Km - Ultra Beast",
+      "distance": 20000,
+      "pools": [
+        "20Km - Ultra Beast"
+      ],
+    "colour":14081363
+    },
+    {
+      "key": "10Km - Special",
+      "distance": 10000,
+      "pools": [
+        "10Km - Special"
+      ],
+	  "colour":16711935
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+
+background = addStretchedTexture("top_left", "menu:loading/bgloading.jpg")
+background.setRelRender(1, 1)
+
+tips = addRandomText("top_left")
+tips.setAbsXOffset(5)
+tips.setAbsYOffset(5)

@@ -51,7 +51,7 @@ Power generation aren't usually worth the effort, might be in this pack. Also fo
 We created this modpack and has had hour's to make sure it can give players great experience in the different mods in the pack.
 
 ### Mod's In the pack
-*Small list of mods* [View all mod here]()
+*Small list of mods* [View all mod here](https://github.com/ZeroG-Network/ZeroG-Pixelmon-Obsidian-Edition/tree/main/Changelogs/Changelogs-Modlist)
 Thermal expansion,
 Biomes o' plenty,
 Tinkers' construct, ,

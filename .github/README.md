@@ -65,5 +65,5 @@ Industrial foregoing,
 Draconic evolution and many more..
 
 
-#### hope you enjoy this wonderful 1.12.2 pack featuring some fantastic visual content, block id, jei guide, questing and much more
+#### hope you enjoy this wonderful 1.12.2 (not Supported anymore) and 1.16.5 pack featuring some fantastic visual content, block id, jei guide, questing and much more
 FTB - with more action fun With Pixelmon Goodie's.

@@ -58,7 +58,7 @@ We created this modpack and has had hour's to make sure it can give players grea
 *Small list of mods* [View all mod here](https://github.com/ZeroG-Network/ZeroG-Pixelmon-Obsidian-Edition/tree/main/Changelogs/Changelogs-Modlist)
 Thermal expansion,
 Biomes o' plenty,
-Tinkers' construct, ,
+Tinkers' construct,
 Chisel,
 Pam's harvest-craft,
 Immersive engineering,

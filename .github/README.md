@@ -1,6 +1,6 @@
 # ZeroG Pixelmon: Obsidian Edition
 
-This is the official repository and issue-tracker for the modpack [ZeroG Pixelmon: Obsidian Edition](https://www.curseforge.com/minecraft/modpacks/zerog-pixlemon-obsidian-edition), for Minecraft 1.12.2
+This is the official repository and issue-tracker for the modpack [ZeroG Pixelmon: Obsidian Edition](https://www.curseforge.com/minecraft/modpacks/zerog-pixlemon-obsidian-edition), for Minecraft 1.16.5
 
 ### Table of Contents
 
